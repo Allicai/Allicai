@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **a TTS for audiobook conversion**
  
- 🌱 I’m currently learning **Docker, AWS, C++, and React**
+ 🌱 I’m currently learning about **Docker, AWS, FastSpeech2, and Tacotron**
 
 💬 Ask me about **keras, PyTorch, tensorflow, and general NLP practices**
 
-⚡ Fun fact **An octopus has 3 hearts!**
+Fun fact **An octopus has 3 hearts!**
 
  </div>
  
