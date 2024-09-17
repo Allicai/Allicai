@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a personal website and various computer vision projects**
+ 🔭 I’m currently working on **a number of computer vision projects and TTSP for audiobook generation**
  
- 🌱 I’m currently learning about **Docker and AWS**
+ 🌱 I’m currently learning about **FastSpeech2 and Kubernetes**
 
  </div>
  
@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,firebase,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql" /><br>
 </div>
 
 <br/>
