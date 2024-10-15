@@ -23,7 +23,7 @@
  
  🔭 I’m currently working on **a number of computer vision projects and TTS for audiobook generation**
  
- 🌱 I’m currently learning about **FastSpeech2 and Kubernetes**
+ 🌱 I’m currently learning about **Kubernetes**
 
  </div>
  
