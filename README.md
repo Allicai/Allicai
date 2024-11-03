@@ -10,7 +10,7 @@
   <a href="mailto:vinitp0310@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/vinit-patel-873514204/" target="_blank">
+  <a href="https://www.linkedin.com/in/vinitp0310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -25,7 +25,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Allicai/Allicai/output/github-contribution-grid-snake.svg" />
   
