@@ -11,10 +11,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql" /><br>
 </div>
-
-<br/>
-<hr/>
-
 <div align="center">
   <h2>Contributions</h2>
   <br>
