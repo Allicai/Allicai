@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql" /><br>
 </div>
 <div align="center">
-  <h2>Contributions</h2>
+  Contributions
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Allicai/Allicai/output/github-contribution-grid-snake.svg" />
 </div>
 
