@@ -1,6 +1,6 @@
 <div align="center">
  
- 🔭 I’m currently working on **a number of computer vision projects and TTS for audiobook generation**
+ 🔭 I’m currently working on **TTS for audiobook generation**
  
  🌱 I’m currently learning about **Kubernetes**
 
