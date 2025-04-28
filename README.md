@@ -2,7 +2,7 @@
 
 
 
- <Text as="b" size="lg">Personal Projects</Text>
+ <Text as="b">Personal Projects</Text>
  <br></br>
  🔭 I’m currently working on **TTS for audiobook generation**
  
