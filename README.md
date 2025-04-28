@@ -1,5 +1,5 @@
 <div align="center">
- 
+ <Text as="b">Personal Projects</Text>
  🔭 I’m currently working on **TTS for audiobook generation**
  
  🌱 I’m currently learning about **Kubernetes**
