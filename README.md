@@ -2,7 +2,7 @@
 
  ### 👋 Hey there!
 
- My name's Vinit, I'm a computer science student at Northeastern University! Here's some info about me:
+ My name's Vin, and I'm a computer science student at Northeastern University! Here's some info about me:
 
  ### Work Experience
 
