@@ -1,12 +1,24 @@
 <div align="center">
 
+ ### 👋 Hey there!
 
+ My name's Vinit, I'm a computer science student at Northeastern University! Here's some info about me:
 
- <Text as="b">Personal Projects</Text>
- <br></br>
- 🔭 I’m currently working on **TTS for audiobook generation**
+ **Work Experience**
+
+ 📦 Software Development Engineer Co-Op at Amazon [Present]
+
+ ❄️ AI/ML Software Engineer Intern at Snowflake [Fall 2024]
+
+ 🕹️ Data Science Intern at Mobalytics [Summer 2024]
+
+ ✏️ Teaching Assistant for Northeastern's OOD & Algorithms courses [2023]
+
+ ** Personal Projects**
+
+ 🔭 I’m currently working on **Agentic AI for the stock market...**
  
- 🌱 I’m currently learning about **Kubernetes**
+ 🌱 I’m currently learning about **Computer Vision**
 
  </div>
 
