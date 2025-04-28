@@ -4,7 +4,7 @@
 
  My name's Vinit, I'm a computer science student at Northeastern University! Here's some info about me:
 
- **Work Experience**
+ ### Work Experience
 
  📦 Software Development Engineer Co-Op at Amazon [Present]
 
@@ -14,7 +14,7 @@
 
  ✏️ Teaching Assistant for Northeastern's OOD & Algorithms courses [2023]
 
- ** Personal Projects**
+ ### Personal Projects
 
  🔭 I’m currently working on **Agentic AI for the stock market...**
  
