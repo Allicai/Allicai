@@ -6,19 +6,21 @@
 
  ### Work Experience
 
- 📦 Software Development Engineer Co-Op at Amazon [Present]
+ 📦 Software Development Engineer Co-Op at Amazon [Spring 2025]
 
- ❄️ AI/ML Software Engineer Intern at Snowflake [Fall 2024]
+ ❄️ AI/ML Software Engineer Co-Op at Snowflake [Fall 2024]
 
  🕹️ Data Science Intern at Mobalytics [Summer 2024]
 
  ✏️ Teaching Assistant for Northeastern's OOD & Algorithms courses [2023]
 
  ### Personal Projects
-
- 🔭 I’m currently working on **Agentic AI for the stock market...**
  
- 🌱 I’m currently learning about **Computer Vision**
+ 🌱 I’m currently working on my skills in **Machine Learning**
+
+ 🛠️ My ongoing projects are **A Persona 5 themed hobby site, and an AI workflow tool**
+
+ 🔭 My next project involves **Agentic AI research for the stock market...**
 
  </div>
 
