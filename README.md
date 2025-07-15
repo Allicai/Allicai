@@ -5,6 +5,7 @@
  My name's Vin, and I'm a computer science student at Northeastern University!
  
  I'm currently looking for 2026 newgrad opportunities 🔍
+ 
  ---
  Here's some info about me:
 
