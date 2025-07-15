@@ -6,11 +6,15 @@
 
  ### Work Experience
 
- 📦 Software Development Engineer Co-Op at Amazon [Spring 2025]
+ 👁️‍🗨️ Applied AI Engineer at ||**Stealth Startup**|| [Summer 2024]
 
- ❄️ AI/ML Software Engineer Co-Op at Snowflake [Fall 2024]
+ 📦 Software Development Engineer Co-Op at **Amazon** [Spring 2025]
 
- 🕹️ Data Science Intern at Mobalytics [Summer 2024]
+ ❄️ AI/ML Software Engineer Co-Op at **Snowflake** [Fall 2024]
+
+ 🕹️ Data Science Intern at **Mobalytics** [Summer 2024]
+
+ 🎧 Software Engineer Extern at **Beats by Dre** [Summer 2024]
 
  ✏️ Teaching Assistant for Northeastern's OOD & Algorithms courses [2023]
 
