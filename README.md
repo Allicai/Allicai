@@ -21,7 +21,6 @@
  🛠️ My ongoing projects are **A Persona 5 themed hobby site, and an AI workflow tool**
 
  🔭 My next project involves **Agentic AI research for the stock market...**
-
  </div>
 
 <!-- <div align="center">
@@ -32,6 +31,4 @@
 <!-- <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Allicai/Allicai/output/github-contribution-grid-snake.svg" />
 </div> -->
-
-<hr/>
 
