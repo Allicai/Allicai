@@ -2,16 +2,16 @@
 
  ### 👋 Hey there!
 
- My name's Vin, and I'm a computer science student at Northeastern University!
+ My name's Vin, and I'm a computer science student at **Northeastern University**!
  
- I'm currently looking for 2026 newgrad opportunities 🔍
+ I'm currently looking for **2026 newgrad** opportunities 🔍
  
  ---
  Here's some info about me:
 
  ### Work Experience
 
- 👁️‍🗨️ Applied AI Engineer at Stealth Startup [Summer 2025]
+ 👁️‍🗨️ Applied AI Engineer at **Stealth Startup** [Summer 2025]
 
  📦 Software Development Engineer Co-Op at **Amazon** [Spring 2025]
 
