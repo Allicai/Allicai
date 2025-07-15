@@ -6,7 +6,7 @@
 
  ### Work Experience
 
- 👁️‍🗨️ Applied AI Engineer at ||**Stealth Startup**|| [Summer 2024]
+ 👁️‍🗨️ Applied AI Engineer at ||Stealth Startup|| [Summer 2024]
 
  📦 Software Development Engineer Co-Op at **Amazon** [Spring 2025]
 
