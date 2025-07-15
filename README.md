@@ -24,10 +24,11 @@
 
  </div>
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql" /><br>
 </div>
+-->
 <!-- <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Allicai/Allicai/output/github-contribution-grid-snake.svg" />
 </div> -->
