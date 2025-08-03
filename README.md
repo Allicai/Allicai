@@ -10,7 +10,7 @@ const aboutMe = {
         },
         prev: [
             { title: "SDE Co-op", company: "Amazon" },
-            { title: "SWE Intern", company: "Snowflake" },
+            { title: "SWE Co-op (AI/ML)", company: "Snowflake" },
             { title: "SWE Intern", company: "Beats by Dre" },
             { title: "Research Assistant", company: "NEU" }
         ]
