@@ -16,6 +16,6 @@ const aboutMe = {
         ]
     },
     workingOn: 'TTS for audiobook generation',
-    learning: 'How to build + ship quickly, and identify pain points'
+    learning: 'C++, Kubernetes'
 }
 ```
